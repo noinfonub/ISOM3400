@@ -5,3 +5,4 @@ import numpy as np
 
 # Title of the app
 st.title("Business Data Dashboard")
+st.title("Business Data Dashboard")
